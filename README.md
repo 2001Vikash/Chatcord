@@ -10,7 +10,6 @@ This GitHub repository contains the source code and documentation for a real-tim
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -80,6 +79,3 @@ Follow these instructions to set up and run the chat application locally.
 - Join existing chat rooms or create new ones.
 - Start chatting with other users in real-time.
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
